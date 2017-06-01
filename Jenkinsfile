@@ -1,4 +1,4 @@
-node('java8') {
+node {
 
   stage('Configure') {
     
